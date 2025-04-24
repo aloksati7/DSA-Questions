@@ -1,2 +1,3 @@
 # DSA-Questions
-This repo contains all the DSA question which is done by me.
+<br>
+ This repo contains "IMP DSA Questions" for practice.
